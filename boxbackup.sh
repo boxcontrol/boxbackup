@@ -27,4 +27,4 @@ tar czf $dest/$archive_file $backup_files
 # Print end status message.
 echo
 echo "Backup finished"
-dat
+date
